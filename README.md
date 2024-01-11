@@ -21,7 +21,7 @@ Para ello, queremos desarrollar una aplicación web que permita a los usuarios v
 
 - Tenemos un 80% de usuarios que vienen de navegadores de escritorio.
 
-Usa esta url `https://webhook.site/53e0bf9c-4ea9-44cf-bf73-ac7c029ca8e9` para obtener los datos de los libros.
+Usa esta url `https://jelou-prueba-tecnica1-frontend.rsbmk.workers.dev` para obtener los datos de los libros.
   
 
 ##  Requisitos : Funcionalidad
@@ -45,11 +45,6 @@ Usa esta url `https://webhook.site/53e0bf9c-4ea9-44cf-bf73-ac7c029ca8e9` para ob
   
 
 5.  **Despliegue**: La aplicación debe estar desplegada en algún servicio de hosting gratuito (Netlify, Vercel, Firebase, etc) y debe ser accesible a través de una URL pública. Indica la URL en el README.
-
-  
-
-6.  **Test**: La aplicación debe tener **AL MENOS** un test. Haz el test que consideres más importante para tu aplicación.
-
   
 
 ## Consejos sobre el código
@@ -86,6 +81,7 @@ Usa esta url `https://webhook.site/53e0bf9c-4ea9-44cf-bf73-ac7c029ca8e9` para ob
 
 - Haz que tu diseño sea responsive.
 
+- Implementa un test. Haz el test que consideres más importante para tu aplicación.
   
 
 ## Stack
@@ -98,7 +94,7 @@ Debes utilizar el siguiente stack para desarrollar la aplicación:
 
 - TypeScript (opcional)
 
-- vitest
+- vitest o Jest (Si haces test)
 
 - React Query
 
